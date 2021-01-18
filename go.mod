@@ -1,4 +1,4 @@
-module github.com/nj-leegern/gojenkins
+module github.com/nj-leegern/gojenkins/v2
 
 go 1.12
 
